@@ -1,0 +1,6 @@
+print ("hi")
+print(3+3)
+print(5*5)
+print(True)
+print(33120*5)
+print(99)
